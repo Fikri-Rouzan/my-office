@@ -12,7 +12,7 @@ This repository contains the client-facing web application for an office space d
 | :-------------------------- | :--------------------------------------------------------------- |
 | 🌐 **Programming Language** | `TypeScript`                                                     |
 | 🧩 **Framework**            | `Tailwind CSS`                                                   |
-| ⚛️ **Libraries**            | `React`, `React Router`, `Axios`, `Zod`, `Swiper`, `React Icons` |
+| ⚛️ **Libraries**            | `React`, `React Router`, `axios`, `Zod`, `Swiper`, `React Icons` |
 | ⚡ **Tool**                 | `Vite`                                                           |
 
 ---
